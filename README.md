@@ -1,3 +1,4 @@
+ 
 
 # Smart Indication System
 
@@ -34,7 +35,7 @@ The aim of the project was to develop a turn indication system for 2 wheelers th
 
 | Jacket | Breaks Applied | Right Turn |
 | ------ | -------------- | ---------- |
-| ![edit-3.jpg](https://i.postimg.cc/tTFhDk30/edit-3.jpg) | ![edit-4.png](https://i.postimg.cc/J47p4yVN/edit-4.png)  | ![edit-5.png](https://i.postimg.cc/SRg7zrFW/edit-5.png) |
+| ![edit-3.jpg](https://i.postimg.cc/TwjL5zP5/edit-3.jpg) | ![edit-4.png](https://i.postimg.cc/L5yRt6P7/edit-4.png) | ![edit-5.png](https://i.postimg.cc/T1nNxkdc/edit-5.png) |
 
 
 ## Working of Project
