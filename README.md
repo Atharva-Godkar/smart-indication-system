@@ -52,3 +52,8 @@ Please press the video icon given below to play the video.
  - [IoT Design](https://rb.gy/40xbd)
  - [techiesms](https://rb.gy/0wapi)
 
+## Team Members
+- [@vansh](https://github.com/VanshD40)
+- [@chaudhari]()
+- [@ratan]()
+- [@godkar](https://github.com/Atharva-Godkar)
